@@ -64,11 +64,3 @@ SkillBridge is a custom-built, lightweight freelancer-to-client matchmaking plat
 
 ## 5. Team Reflections
 
-### Nelly's Reflection
-*Placeholder for Nelly to write their reflection on developing database structure and security features.*
-
-### Belinda's Reflection
-*Placeholder for Belinda to write their reflection on building jobs, applications flow, and browsing interfaces.*
-
-### Gideon's Reflection
-*Placeholder for Gideon to write their reflection on dashboard stats, styling matching features, and app.js scripts.*
